@@ -19,3 +19,5 @@ The background picture is from here <a href="https://www.vecteezy.com/free-vecto
 I used this for the main container: https://scripted.neocities.org/images (This is not specifically my picture!! This link is just for you if you want to rebuild it.)
 
 I used this for the top container (I found it on pinterest but if you really want to go the save way:Do not use Pinterest because when s.o takes the pictures down it will miss on your page or show an error):https://static.vecteezy.com/system/resources/previews/055/516/557/non_2x/sakura-pixel-seamless-border-cherry-flowers-petal-blossom-8-bit-retro-game-decoration-chinese-plum-spring-ornament-vector.jpg
+
+I used this cool site to make a little pixel version of me: https://www.avatarsinpixels.com/

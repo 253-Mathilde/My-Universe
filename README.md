@@ -10,8 +10,10 @@ I got that little symbol for the top here : https://sadthemes.tumblr.com/smolpxl
 
 I used this yt video for help: https://www.youtube.com/watch?v=aPfEn1JXOUk
 
-I used this for parts of my code.https://pastebin.com/Q9p7z738
+I used this for parts of my code:https://pastebin.com/Q9p7z738
 
 The picture is made with Canva.
 
 The background picture is from here <a href="https://www.vecteezy.com/free-vector/picnic-pattern">Picnic Pattern Vectors by Vecteezy</a> (I used the pinterest button so I could copy the link for the picture because for me it is easier to do it per link not per file on my PC)
+
+I uses this for the main container: https://scripted.neocities.org/images (This is not specifically my picture!! This link is just for you if you want to rebuild it.)

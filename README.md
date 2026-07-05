@@ -12,3 +12,4 @@ I used this yt video for help: https://www.youtube.com/watch?v=aPfEn1JXOUk
 
 I used this for parts of my code.https://pastebin.com/Q9p7z738
 
+The picture is made with Canva.

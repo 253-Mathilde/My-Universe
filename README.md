@@ -16,4 +16,4 @@ The picture is made with Canva.
 
 The background picture is from here <a href="https://www.vecteezy.com/free-vector/picnic-pattern">Picnic Pattern Vectors by Vecteezy</a> (I used the pinterest button so I could copy the link for the picture because for me it is easier to do it per link not per file on my PC)
 
-I uses this for the main container: https://scripted.neocities.org/images (This is not specifically my picture!! This link is just for you if you want to rebuild it.)
+I used this for the main container: https://scripted.neocities.org/images (This is not specifically my picture!! This link is just for you if you want to rebuild it.)

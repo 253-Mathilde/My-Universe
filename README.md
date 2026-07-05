@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/253-Mathilde/My-Universe/main/Von%20NASA%20-%20httpnssdc.gsfc.nasa.govimgcathtmlobject_pagenea_19970627_mos.html%2C%20Gemeinfrei%2C%20httpscommons.wikimedia.orgwindex.phpcurid%3D1572919%20(2).jpg)
+![Banner](https://raw.githubusercontent.com/253-Mathilde/My-Universe/main/banner.jpg)
 
 <strong>Hi there this is my project. I am giving my best to make it cool. Please have a little bit of patience because good work needs time<3 </strong>
 

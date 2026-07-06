@@ -12,14 +12,16 @@ I got the cursor from here :https://www.cursors-4u.com/
 
 I used this yt video for help: https://www.youtube.com/watch?v=aPfEn1JXOUk
 
-I used this for parts of my code:https://pastebin.com/Q9p7z738
+I used this for parts of my code:https://pastebin.com/WU1RsxZb and this one to https://pastebin.com/zhzd9QfL
 
 The picture is made with Canva.
 
-The background picture is from here <a href="https://www.vecteezy.com/free-vector/picnic-pattern">Picnic Pattern Vectors by Vecteezy</a> (I used the pinterest button so I could copy the link for the picture because for me it is easier to do it per link not per file on my PC)
+The background picture is from here <a href="https://www.vecteezy.com/free-vector/picnic-pattern">Picnic Pattern Vectors by Vecteezy</a> 
 
-I used this for the main container: https://scripted.neocities.org/images (This is not specifically my picture!! This link is just for you if you want to rebuild it.)
+I used this for the main container: https://scripted.neocities.org/images (This is not <u> specifically</u> my picture!! This link is just for you if you want to rebuild it.)
 
-I used this for the top container (I found it on pinterest but if you really want to go the save way:Do not use Pinterest because when s.o takes the pictures down it will miss on your page or show an error):https://static.vecteezy.com/system/resources/previews/055/516/557/non_2x/sakura-pixel-seamless-border-cherry-flowers-petal-blossom-8-bit-retro-game-decoration-chinese-plum-spring-ornament-vector.jpg
+I used this side for the decor at the top:https://jasminnie.weebly.com/dividers.html
+
+I used this side for parts of my code (for the picture frames etc.):https://loveberry.nekoweb.org/
 
 I used this cool site to make a little pixel version of me: https://www.avatarsinpixels.com/
